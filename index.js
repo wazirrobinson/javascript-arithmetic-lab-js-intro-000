@@ -1,2 +1,5 @@
-add(2 + 3)
-return add();
+var num = 5;
+
+function add5() {
+  num += 10
+}
