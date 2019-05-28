@@ -1,2 +1,2 @@
-
-add(2 + 4)
+var num = 4;
+return num++;
